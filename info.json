@@ -1,0 +1,9 @@
+{
+    "name": "Sneaky-Cogs",
+    "author": [
+        "snikay (snikay#7823)"
+    ],
+    "short": "Snikay's Sneaky Cogs for Red-DiscordBot.",
+    "description": "The cogs in this repo primarly focus on custom automation - automating tidious tasks specific to only handful list of servers (will not be put on approved list - so use at your own risk). Most will not require command to trigger an event.",
+    "install_msg": "Thank you for installing my repo!\nIn case any bugs are found - report them on my GitHub here: <https://github.com/snikay/Sneaky-cogs>.\nAdditionally you can leave suggestions."
+}
